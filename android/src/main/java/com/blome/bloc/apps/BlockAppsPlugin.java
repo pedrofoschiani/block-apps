@@ -1,6 +1,8 @@
 package com.blome.bloc.apps;
 
 import android.util.Log;
+import com.getcapacitor.JSArray;
+import java.util.List;
 
 import com.getcapacitor.JSObject;
 import com.getcapacitor.Plugin;
