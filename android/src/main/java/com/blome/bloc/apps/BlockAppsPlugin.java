@@ -15,7 +15,6 @@ import org.json.JSONException;
 @CapacitorPlugin(name = "BlockApps")
 public class BlockAppsPlugin extends Plugin {
 
-    private BlockApps implementation = new BlockApps();
     private static final String TAG = "BlockApps";
 
     @PluginMethod
