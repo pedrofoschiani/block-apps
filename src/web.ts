@@ -1,4 +1,4 @@
-import { WebPlugin } from '@capacitor/core';
+import { WebPlugin, registerPlugin} from '@capacitor/core';
 
 import type { BlockAppsPlugin } from './definitions';
 
